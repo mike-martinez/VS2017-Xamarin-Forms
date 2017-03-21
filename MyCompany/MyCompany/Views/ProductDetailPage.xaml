@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	x:Class="MyCompany.Views.ProductDetailPage"
+	xmlns:vm="clr-namespace:MyCompany.ViewModels;assembly=MyCompany"
+	xmlns:local="clr-namespace:MyCompany;assembly=MyCompany"
+>
+    <!--add grid-->
+    <!--add stack layout-->
+    <!--add scrollview-->
+    
+    
+</ContentPage>
